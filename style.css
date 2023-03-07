@@ -24,7 +24,9 @@
   font-style: italic;
   src: url("fonts/product-sans/Product_Sans_Bold_Italic.ttf");
 }
-
+html,body{
+  overflow-x: hidden;
+}
 p{
   font-family: "Lato" !important;
   font-style: normal !important;
