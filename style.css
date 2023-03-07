@@ -499,11 +499,11 @@ height: 25px;
 
  .section{
    min-height: auto;
-   padding: 35px 20px 60px;
+   padding: 0 20px;
 
  }
     .section-1{
-      display: block;
+      grid-template-columns: 100%;
       min-height: 540px;
   
     }
