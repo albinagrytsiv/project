@@ -499,12 +499,12 @@ height: 25px;
 
  .section{
    min-height: auto;
-   max-height: 540px;
    padding: 35px 20px 60px;
 
  }
     .section-1{
       display: block;
+      min-height: 540px;
   
     }
     .section-1__block-1{    
